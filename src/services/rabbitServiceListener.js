@@ -4,7 +4,7 @@ import transporter from '../config/emailConfig.js';
 
 dotenv.config();
 
-const RABBITMQ_URL = "amqps://znlzcnga:fdx2PN2SUt1ofLrpMYEGIKew8IuvSXsW@possum.lmq.cloudamqp.com/znlzcnga";
+const RABBITMQ_URL = "amqps://sbftbpns:PX-K11id-bbob1ef-3_Xhb8vgBEC-k9d@woodpecker.rmq.cloudamqp.com/sbftbpns";
 
 
 export async function userEvents() {
